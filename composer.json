@@ -1,0 +1,19 @@
+{
+    "name": "yuvi/calci",
+    "description": "this is simple calci package",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "yuvaraj selvaraj",
+            "email": "yuvaraj@mallow-tech.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "yuvi\\calci\\": "src/"
+        }
+    }
+}
